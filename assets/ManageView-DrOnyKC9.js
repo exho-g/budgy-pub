@@ -1,0 +1,1 @@
+import{c as a,w as t,_ as o,D as n,o as r,h as s}from"./index-75_8ZbSF.js";const m={__name:"ManageView",setup(_){return(c,p)=>{const e=n("RouterView");return r(),a(o,{pageTitle:"Manage",bg:"bg-gray-100"},{default:t(()=>[s(e)]),_:1})}}};export{m as default};
