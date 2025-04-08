@@ -1,4 +1,4 @@
-import{J as e,j as o,o as t,c as a,Q as c,R as n}from"./index-CuHrlV8G.js";/**
+import{c as e,k as a,o as t,a as o,Q as c,R as n}from"./index-C34JLIwx.js";/**
  * @license lucide-vue-next v0.484.0 - ISC
  *
  * This source code is licensed under the ISC license.
@@ -8,4 +8,4 @@ import{J as e,j as o,o as t,c as a,Q as c,R as n}from"./index-CuHrlV8G.js";/**
  *
  * This source code is licensed under the ISC license.
  * See the LICENSE file in the root directory of this source tree.
- */const l=e("x",[["path",{d:"M18 6 6 18",key:"1bl5f8"}],["path",{d:"m6 6 12 12",key:"d8bk6v"}]]),r={class:"btn btn-circle btn-primary fixed bottom-30 shadow-primary/50 shadow-md right-4 btn-xl"},m={__name:"FAB",props:["icon"],setup(s){return(i,p)=>(t(),o("button",r,[(t(),a(c(n(s.icon)),{size:36,strokeWidth:"2"}))]))}};export{d as P,l as X,m as _};
+ */const l=e("x",[["path",{d:"M18 6 6 18",key:"1bl5f8"}],["path",{d:"m6 6 12 12",key:"d8bk6v"}]]),r={class:"btn btn-circle btn-primary fixed bottom-30 shadow-primary/50 shadow-md right-4 btn-xl"},m={__name:"FAB",props:["icon"],setup(s){return(i,p)=>(t(),a("button",r,[(t(),o(c(n(s.icon)),{size:36,strokeWidth:"2"}))]))}};export{d as P,l as X,m as _};
