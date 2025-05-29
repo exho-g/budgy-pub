@@ -1,5 +1,5 @@
-import{c as a,a as l,w as d,_ as i,o as n,b as t,d as s,t as b,e as o,u as r}from"./index-CucIGbwm.js";import{S as g}from"./star-BWFrF0LW.js";/**
- * @license lucide-vue-next v0.484.0 - ISC
+import{c as a,a as l,w as d,_ as i,o as n,b as t,d as s,t as b,e as o,u as r}from"./index-BgZwY917.js";import{S as g}from"./star-DkFK1F8g.js";/**
+ * @license lucide-vue-next v0.485.0 - ISC
  *
  * This source code is licensed under the ISC license.
  * See the LICENSE file in the root directory of this source tree.
