@@ -1,1 +1,0 @@
-import{c as a,w as t,e as o,H as r,o as n,i as s}from"./index-BBC1P1kV.js";const g={__name:"ManageView",setup(c){return(_,i)=>{const e=r("RouterView");return n(),a(o,{pageTitle:"Manage",bg:"bg-gray-100 dark:bg-gray-800"},{default:t(()=>[s(e)]),_:1})}}};export{g as default};
